@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+vue_env
+db.SQLITE3
+/static
+.DS_Store
